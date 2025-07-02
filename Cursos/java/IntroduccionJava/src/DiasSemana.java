@@ -1,5 +1,6 @@
 public class DiasSemana {
     public static void main(String[] args) {
+        //agrego comentario
         System.out.println("***Días de la Semana***");
         var dia=5;
         switch (dia) {
